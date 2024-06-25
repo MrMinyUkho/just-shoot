@@ -719,7 +719,7 @@
       <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-      <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+      <HintPath>C:\Users\adima\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.SysrootPackage.Editor">
       <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.SysrootPackage.Editor.dll</HintPath>
@@ -728,13 +728,16 @@
       <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+      <HintPath>C:\Users\adima\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State.Editor">
+      <HintPath>C:\Users\adima\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:\Users\03.12\RiderProjects\just-shoot\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
