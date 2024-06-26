@@ -10,7 +10,7 @@ public class Movement : MonoBehaviour
     public float runningSpeed = 11.5f;
     public float jumpSpeed = 8.0f;
     public float gravity = 20.0f;
-    public Camera playerCamera;
+    public GameObject playerCamera;
     public float lookSpeed = 2.0f;
     public float lookXLimit = 45.0f;
 
