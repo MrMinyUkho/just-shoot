@@ -32,12 +32,6 @@ public class pistol_shoot : MonoBehaviour
             {
                 test.TakenDamage(damage);
             }
-            lineRenderer.enabled = true;
-            var firstPosition = transform.position;
-            var secondPosition = hit.point;
-            lineRenderer.SetPosition(0, firstPosition);
-            lineRenderer.SetPosition(1, secondPosition);
-
         }
     }
 }
