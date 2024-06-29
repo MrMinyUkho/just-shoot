@@ -15,6 +15,7 @@ public class TraceDrawerDestroyer : MonoBehaviour
     void Start()
     {
         lr = GetComponent<LineRenderer>();
+        
         Debug.Log(lr);
         lr.startWidth = 0.05f;
         lr.endWidth = 0.025f;
